@@ -1,0 +1,15 @@
+{
+  "latest": "2.3.1",
+  "minimum": "2.3.1",
+  "critical": true,
+  "title": "NOVA ULTRA Hotfix",
+  "subtitle": "Corrección crítica del arranque.",
+  "changes": [
+    "Corrige la pantalla vacía con un perfil existente",
+    "Corrige el saludo personalizado",
+    "Añade el contador hacia la fecha objetivo",
+    "Corrige el acceso a NOVA Study Lab",
+    "Añade recuperación visual ante errores de arranque",
+    "Conserva las 494 preguntas y el progreso local"
+  ]
+}

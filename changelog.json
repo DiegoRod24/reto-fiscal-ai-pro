@@ -1,0 +1,62 @@
+{
+  "versions": [
+    {
+      "version": "2.3.1",
+      "name": "NOVA ULTRA Hotfix",
+      "date": "2026-08-13",
+      "items": [
+        "Corrige la pantalla vacía con un perfil existente",
+        "Corrige el saludo personalizado",
+        "Añade el contador hacia la fecha objetivo",
+        "Corrige el acceso a NOVA Study Lab",
+        "Añade recuperación visual ante errores de arranque",
+        "Conserva las 494 preguntas y el progreso local"
+      ]
+    },
+    {
+      "version": "2.3.0",
+      "name": "NOVA ULTRA",
+      "date": "2026-08-13",
+      "items": [
+        "Nueva identidad visual de Reto Fiscal AI Pro",
+        "NOVA más interactiva y expresiva",
+        "Nuevo inicio mobile-first con accesos rápidos",
+        "Aula NOVA voice-first mejorada",
+        "Selector: ¿Cómo quieres estudiar hoy?",
+        "Centro de actualizaciones automático",
+        "Historial de versiones y Qué hay de nuevo",
+        "Respaldo automático antes de migraciones",
+        "Banco inteligente de 494 preguntas"
+      ]
+    },
+    {
+      "version": "2.2.0",
+      "name": "NOVA StudyLab",
+      "items": [
+        "Banco ampliado a 494 preguntas",
+        "Aula NOVA",
+        "Buscador y filtros",
+        "Navegación Volver"
+      ]
+    },
+    {
+      "version": "2.1.0",
+      "name": "Solo HyperLearning",
+      "items": [
+        "Usuario único local",
+        "Backup/restore",
+        "Ambientes adaptativos",
+        "Recovery Lab"
+      ]
+    },
+    {
+      "version": "2.0.0",
+      "name": "HyperLearning",
+      "items": [
+        "Rachas, XP, combos",
+        "Repetición espaciada",
+        "Ambientes dinámicos"
+      ]
+    }
+  ]
+}

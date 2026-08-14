@@ -1,0 +1,11 @@
+RETO FISCAL AI PRO v2.3.1 · NOVA ULTRA HOTFIX
+
+La pantalla vacía de V2.3 se producía al cargar el Home con un perfil ya existente.
+Se corrigieron:
+- callName() inexistente.
+- examCountdown() faltante.
+- acceso NOVA Study Lab.
+- arranque protegido.
+- pantalla de recuperación ante errores futuros.
+
+El banco conserva 494 preguntas y el progreso local no se modifica.

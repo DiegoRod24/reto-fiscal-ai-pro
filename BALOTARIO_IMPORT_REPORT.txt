@@ -1,0 +1,28 @@
+RETO FISCAL AI PRO v2.2 - IMPORTACION DEL BALOTARIO
+==========================================================
+Preguntas existentes antes: 24
+Preguntas confiables extraídas del PDF: 491
+Banco final sin preguntas duplicadas: 494
+
+Preguntas únicas del nuevo balotario incorporadas: 470
+
+Por materia:
+- Organización y funciones: 58
+- Derecho Constitucional y Derechos Humanos: 87
+- Derecho Penal y Procesal Penal: 301
+- Cultura general y cultura jurídica: 23
+- Procedimiento administrativo general: 22
+
+Preguntas omitidas para no contaminar el banco:
+- Derecho Penal y Procesal Penal - pregunta 33 - página 43: Revisión manual: estructura o clave ambigua en la fuente.
+- Derecho Penal y Procesal Penal - pregunta 159 - página 70: Revisión manual: estructura o clave ambigua en la fuente.
+- Derecho Penal y Procesal Penal - pregunta 190 - página 77: Revisión manual: estructura o clave ambigua en la fuente.
+
+Mejoras V2.2:
+- Botón Volver visible en Entrenamiento, Progreso, Banco, Perfil, Aula NOVA y Quiz.
+- Aula IA/NOVA Study Lab con conversación por voz o texto.
+- Comandos: Explícame, Pregúntame, Pista, Cómo recordarlo, Repite, Siguiente.
+- Modo manos libres experimental.
+- Las respuestas dadas a NOVA alimentan XP, dominio y repetición espaciada.
+- Banco con buscador, filtro por materia y paginación.
+- El progreso sigue siendo 100% local.

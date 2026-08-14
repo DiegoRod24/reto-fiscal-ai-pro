@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 210">
+<defs>
+ <linearGradient id="w" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F7FBFF"/><stop offset=".55" stop-color="#DDE8F8"/><stop offset="1" stop-color="#FFFFFF"/></linearGradient>
+ <linearGradient id="c" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8B5CFF"/><stop offset="1" stop-color="#00E5FF"/></linearGradient>
+ <filter id="glow"><feGaussianBlur stdDeviation="5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="820" height="210" fill="none"/>
+<text x="14" y="102" fill="url(#w)" font-size="100" font-family="Arial, Helvetica, sans-serif" font-weight="800" letter-spacing="3">RETO</text>
+<ellipse cx="325" cy="70" rx="54" ry="24" fill="none" stroke="url(#c)" stroke-width="8" transform="rotate(-26 325 70)" filter="url(#glow)"/>
+<circle cx="354" cy="45" r="8" fill="#00E5FF" filter="url(#glow)"/>
+<text x="18" y="182" fill="#00E5FF" font-size="54" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="20">FISCAL</text>
+<text x="560" y="102" fill="url(#c)" font-size="46" font-family="Arial, Helvetica, sans-serif" font-weight="700">AI Pro</text>
+</svg>
